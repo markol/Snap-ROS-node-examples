@@ -1,0 +1,7 @@
+devel/*
+build/*
+*.bak
+*.pyc
+.directory
+.catkin_workspace
+src/CMakeLists.txt

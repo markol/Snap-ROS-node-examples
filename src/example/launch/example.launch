@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="example" name="example" type="run.py" respawn="true" output="screen"/>
+
+</launch> 
